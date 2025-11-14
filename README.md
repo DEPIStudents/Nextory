@@ -22,25 +22,13 @@ Nextory transforms career guidance into an accessible, supportive, and empowerin
 
 ---
 
-## 👥 Team (Example Placeholder — Add Your Actual Team)
-(*If you want, I can replace these with real names/roles or remove the whole section.*)
+## 👥 Team
 
-### **Team Leader**
-**Primary:** Project direction, planning, partnerships, community strategy  
-**Secondary:** Branding guidance, content oversight, documentation  
+### **Asmaa Yousef - Team Leader**
 
-### **Mentorship Coordinator**
-**Primary:** Mentor relationships, session planning, youth matching  
-**Secondary:** Workshop support, event coordination  
+### **Seif Sayed**
 
-### **Community Manager**
-**Primary:** Meetups, Talking Circles, activity planning  
-**Secondary:** Online engagement, community tracking  
-
-### **Content & Media Team**
-**Primary:** Visuals, videos, social posts, storytelling  
-**Secondary:** Branding consistency, campaign ideation  
-
+### **Ahmed Yousri**
 ---
 
 ## 🗂️ Work Plan
@@ -114,9 +102,4 @@ Through mentorship, workshops, safe spaces, and continuous engagement, Nextory e
 ---
 
 ## 📂 Project Files  
-(Add your Google Drive link here)
-
----
-
-## ⚖️ License  
-All rights reserved © 2025 Nextory Team
+https://drive.google.com/drive/folders/16SKnAUNPXVVbMLMVhNo3nmAgmcaTftsp?usp=sharing
