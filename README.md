@@ -1,4 +1,5 @@
-# 🌟 Nextory | نيكستوري  
+# <img width="250" height="150" alt="Logo" src="https://github.com/user-attachments/assets/1e9ba5ee-61ff-42a4-899f-312af12562e2" />
+# Nextory | نيكستوري  
 **A youth-focused social enterprise providing career guidance, mentorship, and community-based experiences for high school and early university students.**
 
 ---
